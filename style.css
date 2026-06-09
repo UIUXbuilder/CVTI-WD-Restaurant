@@ -1,0 +1,14 @@
+li a:hover{
+    background-color: black;
+    color: white !important;
+}
+
+
+img{
+   transition: .3s;
+}
+
+
+img:hover{
+    transform: scale(1.05);
+}
